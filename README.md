@@ -1,2 +1,2 @@
 # java-demo
-learning java from scractch
+learning java from beginner
